@@ -1,0 +1,13 @@
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.csproj.AssemblyReference.cache
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.csproj.SuggestedBindingRedirects.cache
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.Form1.resources
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.Properties.Resources.resources
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.csproj.GenerateResource.cache
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.csproj.CoreCompileInputs.cache
+D:\CODE\FinalTheEnd\FinalTheEnd\bin\Debug\FinalTheEnd.exe.config
+D:\CODE\FinalTheEnd\FinalTheEnd\bin\Debug\FinalTheEnd.exe
+D:\CODE\FinalTheEnd\FinalTheEnd\bin\Debug\FinalTheEnd.pdb
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.exe
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.pdb
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.Main00.resources
+D:\CODE\FinalTheEnd\FinalTheEnd\obj\Debug\FinalTheEnd.Form2.resources
